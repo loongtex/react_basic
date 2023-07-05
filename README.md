@@ -1,2 +1,4 @@
-# react_basic
-学习 React
+# 学习 React
+
+2023 年 7 月 5 日
+- 创建了这个仓库
